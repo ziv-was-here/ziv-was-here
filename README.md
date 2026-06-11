@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I build **web products at the intersection of marketing technology and AI** — from governance platforms to local-first AI tools to content automation systems. I care about shipping things that actually work at scale.
+I build **web products at the intersection of marketing technology and AI** - from governance platforms to local-first AI tools to content automation systems. I care about shipping things that actually work at scale.
 
 - 🚀 &nbsp;Currently building: AI adoption & governance tooling
 - 🧠 &nbsp;Exploring: Local LLMs, autonomous agents, MarTech automation
