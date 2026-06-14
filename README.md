@@ -1,18 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ziv%20Rozenberg&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Growth%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 </div>
-
 <div align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ziv-rozenberg/)">
+  <a href="https://www.linkedin.com/in/ziv-rozenberg/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-
   <a href="https://zivwashere.com.com">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
-
 <br/>
 
 ---
@@ -24,6 +21,7 @@ I build **web products at the intersection of marketing technology and AI** - fr
 - 🚀 &nbsp;Currently building: AI adoption & governance tooling
 - 🧠 &nbsp;Exploring: Local LLMs, autonomous agents, MarTech automation
 - 🛠️ &nbsp;Stack: TypeScript · Node.js · Next.js · Python · FastAPI · Docker
+
 ---
 
 ## 🧰 Tech Stack
@@ -81,14 +79,6 @@ I build **web products at the intersection of marketing technology and AI** - fr
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📡 Content Broadcaster</h3>
-      <p>Automated content distribution system for pushing content across multiple marketing channels simultaneously.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Roziv/content-broadcaster">→ View repo</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🗺️ Sitemapper</h3>
       <p>Web sitemap generation tool for SEO and site auditing workflows.</p>
       <p>
@@ -96,6 +86,61 @@ I build **web products at the intersection of marketing technology and AI** - fr
       </p>
       <a href="https://github.com/Roziv/Sitemapper">→ View repo</a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🔄 n8n Workflows</h3>
+      <p>A collection of automation workflows built with n8n for connecting tools, automating processes, and building no-code pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ziv-was-here/n8n-workflows">→ View repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ Modernize Images</h3>
+      <p>WordPress plugin to automatically convert and serve images in modern formats (WebP/AVIF) for better performance and Core Web Vitals scores.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ziv-was-here/zwh-modernize-images">→ View repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Content Broadcaster</h3>
+      <p>Migrate content between environments (dev/qa/stg/prod) with all dependencies — no copy-pasting. Streamlines content workflow across WordPress environments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ziv-was-here/zwh-content-broadcaster">→ View repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Post to Voice</h3>
+      <p>Add AI-powered voice narration to any WordPress post using text-to-speech. Improves SEO, accessibility, and content engagement.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ziv-was-here/zwh-post-to-voice">→ View repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Social Assets Generator</h3>
+      <p>WordPress plugin that uses AI to auto-generate social media assets (images, banners) per post or page — ready to share across platforms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ziv-was-here/zwh-social-assets-generator">→ View repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 ML Translate</h3>
+      <p>Manage WordPress multilingual content with AI/API auto-translation. Makes localisation fast, accurate, and scalable across large sites.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ziv-was-here/zwh-ml-translate">→ View repo</a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
