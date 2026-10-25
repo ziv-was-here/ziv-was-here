@@ -6,9 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
+<!-- 
   <a href="https://zivwashere.com.com">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
+-->
 </div>
 <br/>
 
